@@ -1,10 +1,10 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-* ...
+* ¿En qué estado se encuentran las poblaciones de las subespecies de los géneros _Solenodon_ y _Plagiodontia_?
 
-* ...
+* ¿Cómo se han comportado los avistamientos en el tiempo?
 
-* ...
+* ¿Cómo se han comportado los avistamientos en el espacio de la cuenca caribeña?
 
 # Base común
 
