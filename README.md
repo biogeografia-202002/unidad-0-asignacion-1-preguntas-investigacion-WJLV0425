@@ -1,4 +1,6 @@
-# Mi/s pregunta/s de investigación es/son la/s siguiente/s:
+# Mi familia de plantas y mis preguntas de investigación son las siguientes:
+
+Familia de plantas: Fabaceae-mimosoideae
 
 * Medición de asociación:
 
@@ -16,6 +18,15 @@
     Según los análisis de estimación de riqueza, ¿está suficientemente representada mi familia? Consideremos como buena representación un 85%
     ¿Existe asociación de la diversidad alpha con variables ambientales/atributos? ¿Con cuáles?
     ¿Existe contribución local o por alguna especie a la diversidad beta?
+
+# Mi/s pregunta/s de investigación es/son la/s siguiente/s:
+
+* ¿En qué estado se encuentran las poblaciones de las subespecies de los géneros _Solenodon_ y _Plagiodontia_?
+
+* ¿Cómo se han comportado los avistamientos en el tiempo?
+
+* ¿Cómo se han comportado los avistamientos en el espacio de la cuenca caribeña?
+>>>>>>> 74a2d6e3a31a45fe27f09cf24b01be93f562e8aa
 
 # Base común
 
